@@ -1,18 +1,16 @@
-/*  your css code here. If applicable */
 body {
     background-color: #f5f5f5;
-    font-family: Arial, sans-serif;
 }
 
-.container {
+.testimonials {
     padding: 20px;
     background-color: #f5f5f5;
 }
 
 .testimonial {
-    background-color: #ffffff;
-    border: 1px solid #dddddd;
     padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
     margin-bottom: 15px;
 }
 
